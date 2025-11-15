@@ -67,7 +67,7 @@ socks5://username:password@[2001:db8::1]:1080
 {
     "success": true,
     "proxy": "socks5://username:password@host:port",
-    "ip": "8.8.8.8",
+    "ip": "8.8.8.8",    #出口ip
     "rir": "APNIC",
     "is_bogon": false,
     "is_mobile": false,
